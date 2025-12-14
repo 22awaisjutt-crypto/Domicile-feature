@@ -8,4 +8,6 @@ def cheak_domicile(age,domicile):
  
  cheak_domicile()
  cheak_domicile()
+ 
+ 
     
